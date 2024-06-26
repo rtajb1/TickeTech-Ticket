@@ -1,6 +1,6 @@
 Client: 
-    ID: '' # Bot ID
-    Guild: '' # Guild ID
+    ID: '1241792946882351155' # Bot ID
+    Guild: '1234065450011328513' # Guild ID
     Version: '1.0.0' 
 
 Ready:
@@ -10,5 +10,5 @@ Ready:
 
 #ID Owners Bot
 Owners: 
-    - ''
-    - ''
+    - '620201132039602188'
+    - '569893348014555149'
